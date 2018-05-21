@@ -1,4 +1,25 @@
 body {
   background-color:  #d0e1e1;
   color:#293d3d;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 1.5em;
+}
+
+.page {
+    border: 3px white solid;
+    margin: 50px 250px;
+}
+
+.content {
+    margin: auto;
+    width: 70%;
+    padding: 25px 0;    
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
 }
