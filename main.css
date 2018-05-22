@@ -9,8 +9,10 @@ body {
 }
 
 .page {
-    border: 3px white solid;
-    margin: 50px 250px;
+    border-left: 3px white solid;
+    border-right: 3px white solid;
+    margin: 0 250px;
+    padding: 50px 0;
 }
 
 .content {
